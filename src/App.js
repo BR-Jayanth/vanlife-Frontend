@@ -25,7 +25,7 @@ function App() {
 
   const routes = createBrowserRouter(createRoutesFromElements(
 
-    <Route path="/" element={<Layout />}  errorElement={<Error />}>
+    <Route path="/" element={<Layout />}  errorElement={<Error />} >
       <Route index element={<Home/>} />
       <Route path='about' element={<About />} />
       <Route path='login' element={<Login />} loader={loginLoader} action={loginAction} />
@@ -52,11 +52,11 @@ function App() {
     </Route>
 
 
-  ))
+  ), { basename: '/vanlife-Frontend' }); // Add basename here
   return (
     <>
 
-      <RouterProvider router={routes} />
+      <RouterProvider router={routes}   />
 
     </>
   );
