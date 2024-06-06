@@ -1,0 +1,19 @@
+.loader-container {
+    width: 548.15px;
+    background: #ffffff;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.loader-loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+    width: 100%; /* Ensure it uses the full width of the container */
+    height: 100%; /* Ensure it uses the full height of the container */
+}
+
+

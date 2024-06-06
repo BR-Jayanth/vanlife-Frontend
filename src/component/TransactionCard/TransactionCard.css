@@ -1,0 +1,41 @@
+.transaction-card-container {
+    width: 494px;
+    height: 102px;
+    margin-left: 26px;
+    gap: 0px;
+    border-radius: 6px;
+    margin-bottom: 31px;
+    background: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.transaction-card-price {
+    width: 325px;
+    height: 32px;
+    top: 1068px;
+    margin-left: 29px;
+
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 31.66px;
+    text-align: left;
+    color: #161616;
+
+}
+
+.transaction-card-date {
+    width: 308.67px;
+    height: 20px;
+    margin-right: 28px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 31.66px;
+    text-align: right;
+    color: #4D4D4D;
+
+}

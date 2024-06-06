@@ -1,0 +1,111 @@
+.loginPage-container {
+    width: 548px;
+    padding-top: 52px;
+    padding-bottom: 75px;
+    background: #FFF7ED;
+
+
+}
+
+.loginPage-title {
+    width: 494.33px;
+    height: 24px;
+    margin-top: 52px;
+    margin-left: 27.12px;
+
+    margin-bottom: 50px;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+    color: #161616;
+  
+
+}
+.loginPage-title-2{
+    width: 494.33px;
+    height: 24px;
+    margin-top: 52px;
+    margin-left: 27.12px;
+
+    margin-bottom: 50px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+    color: #cc0000;
+  
+}
+
+.loginPage-form {
+    width: Fixed (494px)px;
+    /* height: Hug (161px)px; */
+
+    margin-left: 27px;
+    margin-right: 27px;
+    gap: 22px;
+
+
+}
+
+.loginPage-form input {
+    width: 464.33px;
+    height: 42px;
+    padding: 9px 13px 9px 13px;
+
+    border-radius: 6px;
+    border: 1px solid #D1D5DB;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 2px 0px #0000000D;
+
+    color: #4D4D4D;
+
+}
+
+.loginPage-submit-btn {
+    width: 494px;
+    height: 55px;
+    border-radius: 6px;
+    border: none;
+
+    margin-top: 22px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #FF8C38;
+
+}
+
+.loginPage-submit-btn:hover {
+    transform: scale(1.03,1.03);
+}
+
+.loginPage-content {
+    width: 494.33px;
+    height: 24px;
+    margin-top: 47px;
+    
+    margin-left: 27.12px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+
+
+}
+
+.loginPage-plain-text {
+    color: #161616;
+
+}
+
+.loginPage-color-text {
+    color: #FF8C38;
+
+}

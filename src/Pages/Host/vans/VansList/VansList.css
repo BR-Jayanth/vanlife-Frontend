@@ -1,0 +1,26 @@
+.van-list-container {
+    width: 548px;
+    background: #FFF7ED;
+    margin-top: 0;
+ 
+
+}
+.vans-list-title{
+    width: 494.33px;
+    height: 34px;
+    padding-top: 0;
+    margin-bottom: 32px;
+    margin-left: 26.12px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 33.65px;
+    text-align: left;
+    color: #161616;
+}
+.vans-container{
+    margin-top: 32px;
+    padding-bottom: 15px;
+}

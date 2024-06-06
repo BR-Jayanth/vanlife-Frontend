@@ -1,0 +1,145 @@
+.HostIncome-container {
+    width: 548px;
+
+    background: #FFF7ED;
+
+}
+
+.hostIncome-main-content {
+    display: flex;
+    flex-direction: column;
+    margin-left: 26px;
+    padding-bottom: 57px;
+}
+
+.hostIncome-main-content-title {
+    width: 156px;
+    height: 22px;
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: left;
+    color: #161616;
+    margin-top: 12px;
+
+
+}
+
+.hostIncome-main-content-text {
+    width: 190px;
+    height: 22px;
+    margin-top: 43px;
+    color: #4D4D4D;
+    margin-top: 43px;
+
+}
+
+.hostIncome-main-content-span-text {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: left;
+
+}
+
+.hostIncome-main-content-span-days {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: left;
+    text-decoration: underline;
+
+}
+
+.hostIncome-main-content-price {
+    width: 442px;
+    height: 38px;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 38px;
+    text-align: left;
+    color: #161616;
+    margin-top: 31px;
+
+}
+
+.HostIncome-graph-container {
+    width: 493px;
+    height: 349.45px;
+
+    margin-left: 27px;
+    margin-right: 28px;
+
+
+    border-radius: 5px;
+    border: 1.45px;
+    background-image: url("../../../assets/HostIncome/bargraph.png");
+    background-size: cover;
+}
+
+.hostIncome-transaction-container {
+    width: 548px;
+
+    background: #FFF7ED;
+
+}
+
+.hostIncome-transaction-container-main {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    margin-left: 27px;
+    margin-right: 28px;
+    margin-top: 66px;
+}
+
+.hostIncome-transaction-container-title {
+    width: 494px;
+    height: 22px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: left;
+    color: #161616;
+
+}
+
+.hostIncome-transaction-container-days {
+    width: 190px;
+    height: 22px;
+    color: #4D4D4D;
+
+
+}
+
+.hostIncome-transaction-content-span-text {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: right;
+
+}
+
+.hostIncome-transaction-content-span-days {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: right;
+    text-decoration: underline;
+
+}
+
+.HostIncome-transaction-detail-container{
+    margin-top: 31px;
+    width: 548px;
+
+    background: #FFF7ED;
+    padding-bottom: 31px;
+}

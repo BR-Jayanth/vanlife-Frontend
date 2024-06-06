@@ -1,0 +1,19 @@
+.footer-container {
+    width: 548.15px;
+    height: 74.75px;
+    top: 961px;
+    left: 0.02px;
+    
+    margin-bottom: auto;
+    background: #252525;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22.92px;
+    text-align: center;
+    color: #AAAAAA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}

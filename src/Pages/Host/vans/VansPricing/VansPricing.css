@@ -1,0 +1,43 @@
+.vansPricing-container {
+    width: 119px;
+    height: 22px;
+    top: 557px;
+    margin-left: 25px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.vansPricing-price {
+    width: 86px;
+    height: 22px;
+    top: 557px;
+    left: 51px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 21.46px;
+    text-align: left;
+    color: #161616;
+
+}
+
+.vansPricing-text {
+    width: 35px;
+    height: 22px;
+    top: 557px;
+    left: 135px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21.46px;
+    text-align: left;
+    color: #4D4D4D;
+
+
+}

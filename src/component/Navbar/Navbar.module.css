@@ -1,0 +1,56 @@
+.container {
+    width: 548.15px;
+    height: 111.62px;
+    top: -0px;
+  
+    background: #FFF7ED;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+}
+
+.navLogo img {
+    width: 144.51px;
+    height: 41px;
+    top: 36px;
+    left: 26px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 26px;
+
+}
+
+.navTabs {
+    /* width: 116.61px; */
+    height: 22.92px;
+    top: 45.12px;
+    left: 405.73px;
+    margin-right: 25px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #4D4D4D;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+}
+.btn-lgout{
+    border: none;
+    background: #FFF7ED;
+}
+
+.navTabs a {
+    text-decoration: none;
+    margin-right: 1rem;
+}
+
+.navTabs a:hover {
+    text-decoration: underline;
+    color: #161616;
+    font-size: 17px;
+    font-weight: 530;
+}
+

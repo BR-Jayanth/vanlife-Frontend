@@ -1,0 +1,90 @@
+.hostReview-container {
+    width: 548px;
+    background: #FFF7ED;
+    padding-bottom: 31px;
+}
+
+.hostreview-title-container {
+    width: 494.33px;
+    height: 34px;
+    margin-left: 25px;
+    padding-top: 53px;
+    margin-right: 28px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+.hostreview-title {
+    font-family: Inter;
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 33.65px;
+    text-align: left;
+    color: #161616;
+    margin-right: 11px;
+
+
+}
+
+.hostReviews-days {
+    width: 213px;
+    height: 22px;
+    color: #4D4D4D;
+    margin-top: 11px;
+
+}
+
+.hostReview-days-text {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: left;
+
+}
+
+.hostReview-days-day {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: left;
+    text-decoration: underline;
+
+}
+
+.hostreview-rating-img-container {
+    width: 497px;
+    height: 215px;
+    margin-right: 26px;
+    margin-left: 25px;
+    margin-top: 33px;
+    background-image: url("../../../assets/HostReview/ratingfraph.png");
+    background-size: cover;
+
+}
+
+.hostreview-review-container {
+    width: 548px;
+    background: #FFF7ED;
+    padding-bottom: 31px;
+    margin-top: 36px;
+    
+    
+}
+
+.hostreview-review-title {
+    width: 104px;
+    height: 23px;
+    margin-left: 26px;
+    margin-right: 30px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22.92px;
+    text-align: left;
+    color: #161616;
+
+}

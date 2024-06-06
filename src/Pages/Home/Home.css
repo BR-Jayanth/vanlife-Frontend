@@ -1,0 +1,94 @@
+.home-container {
+
+    background-image: url("../../assets/home/home.png");
+    background-size: cover;
+    width: 548.15px;
+    height: 386.7px;
+    
+   
+
+    position: relative;
+}
+
+.home-content {
+    position: absolute;
+    width: 494.33px;
+    height: 256.13px;
+    top: 65px;
+    left: 26.91px;
+    right: 26px;
+    gap: 0px;
+    z-index: 1;
+    border-radius: 5px;
+    opacity: 0px;
+
+
+}
+
+.home-content h1 {
+    width: 494.33px;
+    height: 84px;
+
+    margin-right: 26px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 42px;
+    text-align: left;
+
+    color: #FFFFFF;
+
+
+}
+
+
+.home-content-2 p {
+    width: 494.33px;
+    height: 48px;
+    margin-top: 26px;
+    margin-right: 26.91px;
+    margin-bottom: 51px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #FFFFFF;
+
+
+}
+
+.home-link {
+    width: 494.33px;
+    height: 49.83px;
+
+    margin-right: 26.91px;
+    gap: 0px;
+    border-radius: 5px;
+    opacity: 0px;
+    background: #FF8C38;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link-button-home {
+    width: 207.9px;
+    height: 30.09px;
+    top: 392.67px;
+    left: 170.09px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 15.95px;
+    font-weight: 700;
+    line-height: 31.66px;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+

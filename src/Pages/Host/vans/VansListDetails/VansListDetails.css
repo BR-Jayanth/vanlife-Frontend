@@ -1,0 +1,183 @@
+.host-vans-detail-container {
+    width: 548px;
+    /* height: 650px; */
+    background: #FFF7ED;
+    padding-bottom: 45px;
+    margin-bottom: auto;
+    
+
+}
+
+.host-van-detail-link {
+    width: 141.92px;
+    height: 23px;
+    top: 226px;
+    margin-left: 27.06px;
+    gap: 0px;
+    opacity: 0px;
+    color: #201F1D;
+    font-family: Inter;
+    font-size: 15.95px;
+    font-weight: 500;
+    line-height: 22.92px;
+    text-align: left;
+
+
+}
+
+.host-van-detail-item-container {
+    width: 496px;
+    
+    top: 286px;
+    margin-left: 26px;
+    margin-top: 37px;
+    padding-bottom: 25px;
+
+    gap: 0px;
+    border-radius: 6px;
+    opacity: 0px;
+    background: #FFFFFF;
+
+
+}
+
+.host-van-detail-imagecontainer img {
+    width: 160.15px;
+    height: 157.9px;
+    margin-top: 23px;
+    margin-left: 25px;
+    gap: 0px;
+    border-radius: 5px;
+
+
+}
+
+.host-van-detail-imagecontainer {
+    display: flex;
+
+}
+
+.detail-descrip {
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px;
+}
+
+.detail-descrip .detail-descrip-btn {
+    width: 69.8px;
+    height: 27.59px;
+    margin-top: 47px;
+    left: 231.12px;
+    gap: 0px;
+    border-radius: 4.07px;
+    opacity: 0px;
+    background: #E17654;
+    font-family: Inter;
+    font-size: 13.03px;
+    font-weight: 600;
+    line-height: 25.78px;
+    text-align: center;
+    color: #FFEAD0;
+    border: none;
+
+}
+
+.detail-descrip-title {
+    width: 264.67px;
+    height: 28px;
+    margin-top: 16px;
+
+    font-family: Inter;
+    font-size: 26.06px;
+    font-weight: 700;
+    line-height: 27.4px;
+    text-align: left;
+    color: #161616;
+
+
+}
+
+.detail-descrip-price {
+    width: 264.67px;
+    height: 36px;
+    margin-top: 2px;
+    top: 406.36px;
+    left: 231px;
+    gap: 0px;
+    opacity: 0px;
+    color: #161616;
+
+
+}
+
+.detail-descrp-price-title {
+    font-family: Inter;
+    font-size: 19.54px;
+    font-weight: 700;
+    line-height: 35.95px;
+    text-align: left;
+
+}
+
+.detail-descrip-price-price {
+    font-family: Inter;
+    font-size: 16.29px;
+    font-weight: 500;
+    line-height: 35.95px;
+    text-align: left;
+
+}
+
+/* navbar */
+.host-vans-detail-navbar-container {
+
+
+    padding-top: 32px;
+    padding-bottom: 45px;
+
+}
+
+.host-vans-detail-navbar-item {
+    display: flex;
+
+    list-style: none;
+
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22.92px;
+    text-align: left;
+    color: #4D4D4D;
+
+
+
+}
+
+.host-vans-detail-navbar-item a {
+    margin-left: 29px;
+    /* padding-bottom: 32px; */
+    text-decoration: none;
+}
+
+.host-vans-detail-navbar-item a:hover {
+    text-decoration: underline;
+    font-size: 19px;
+    color: #161616;
+
+}
+
+
+.simple {
+    background: #E17654;
+
+}
+
+.rugged {
+    background: #115E59;
+
+}
+
+.luxury {
+    background: #161616;
+
+}

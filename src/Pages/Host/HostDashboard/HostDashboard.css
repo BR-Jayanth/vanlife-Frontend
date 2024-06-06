@@ -1,0 +1,220 @@
+.hostDasboard-container {
+    width: 548px;
+
+    background: #FFF7ED;
+
+
+}
+
+.hostDashboard-content-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.hostDashboard-main-content {
+    width: 548px;
+    height: 219px;
+    border-radius: 5px;
+    opacity: 0px;
+
+    display: flex;
+    justify-content: space-between;
+    background: #FFEAD0;
+
+}
+
+.hostDashboard-main-left {
+    margin-left: 26px;
+}
+
+.hostDashboard-main-left h1 {
+    width: 227px;
+    height: 22px;
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: left;
+    margin-top: 37px;
+    color: #161616;
+}
+
+.hostDashboard-main-left h3 {
+    width: 213px;
+    height: 22px;
+    margin-top: 32px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: left;
+    color: #4D4D4D;
+
+}
+
+.Dashboard-days {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: left;
+    text-decoration: underline;
+
+}
+
+.hostDashboard-main-left-price {
+
+    height: 38px;
+    font-family: Inter;
+    font-size: 48px;
+    margin-top: 31px;
+    margin-bottom: 37px;
+    font-weight: 800;
+    line-height: 38px;
+    text-align: left;
+    color: #161616;
+
+}
+
+.hostDashboard-main-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+}
+
+.hostDashboard-details {
+    width: 190px;
+    height: 22px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: right;
+    color: #161616;
+    margin-right: 29px;
+}
+.hostDashboard-link{
+    text-decoration: none;
+    cursor: pointer;
+}
+.hostDashboard-link:hover{
+    font-size: 17px;
+    color: #4D4D4D;
+    text-decoration: underline;
+
+}
+
+.hostDashboard-review-content {
+    width: 548px;
+    height: 113px;
+    border-radius: 5px;
+    background: #FFDDB2;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.hostDashboard-review-content-left {
+    margin-left: 27px;
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+
+.hostDashboard-review-content-review {
+
+    height: 22px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: left;
+    color: #161616;
+    margin-right: 12px;
+}
+
+.hostDashboard-review-content-score {
+    width: 97.73px;
+    height: 24px;
+}
+
+.Dashboard-review {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: left;
+    margin-left: 3px;
+    color: #161616;
+
+}
+
+.Dashboard-review-count {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: left;
+    color: #4D4D4D;
+    margin-left: 0;
+
+}
+
+.hostDashboard-review-content-right {
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+
+.hostDashboard-van-list-container {
+    width: 548px;
+    background: #FFF7ED;
+    margin-top: 0;
+
+
+}
+
+.HostDasboard-van-list-main-container {
+    display: flex;
+
+    justify-content: space-between;
+    margin-top: 38px;
+    margin-top: 30px;
+
+
+}
+
+.hostDashboard-vans-list-title {
+    width: 494.33px;
+    height: 34px;
+    padding-top: 0;
+    margin-bottom: 32px;
+    margin-left: 26.12px;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: left;
+    color: #161616;
+}
+
+.hostDashboard-van-list-view-all {
+    width: 190px;
+    height: 22px;
+    margin-right: 29px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: right;
+    color: #161616;
+
+}
+
+.hostDashboard-vans-container {
+    margin-top: 32px;
+    padding-bottom: 15px;
+}
