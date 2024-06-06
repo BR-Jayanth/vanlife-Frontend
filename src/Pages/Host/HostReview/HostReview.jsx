@@ -44,7 +44,7 @@ export const HostReview = () => {
          </div>
          <div className="hostreview-review-container">
             <div className="hostreview-review-title">
-                Reviews ({``})
+                Reviews ({`${reviewsData.length}`})
             </div>
              {
                 reviewArray
