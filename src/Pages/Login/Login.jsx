@@ -68,12 +68,12 @@ export const Login = () => {
                 >
                     <input type="email"
                         name="email"
-                        placeholder='Email address'
+                        placeholder='Email address / b@b.com'
 
                     />
                     <input type="password"
                         name="password"
-                        placeholder='Password'
+                        placeholder='Password / p123'
 
                     />
                     <button
