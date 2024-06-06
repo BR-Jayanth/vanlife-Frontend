@@ -12,7 +12,6 @@
     height: 24px;
     margin-top: 52px;
     margin-left: 27.12px;
-
     margin-bottom: 50px;
     font-family: Inter;
     font-size: 32px;
@@ -28,7 +27,6 @@
     height: 24px;
     margin-top: 52px;
     margin-left: 27.12px;
-
     margin-bottom: 50px;
     font-family: Inter;
     font-size: 18px;
@@ -54,12 +52,10 @@
     width: 464.33px;
     height: 42px;
     padding: 9px 13px 9px 13px;
-
     border-radius: 6px;
     border: 1px solid #D1D5DB;
     background: #FFFFFF;
     box-shadow: 0px 1px 2px 0px #0000000D;
-
     color: #4D4D4D;
 
 }
@@ -88,8 +84,7 @@
 .loginPage-content {
     width: 494.33px;
     height: 24px;
-    margin-top: 47px;
-    
+    margin-top: 47px;  
     margin-left: 27.12px;
     font-family: Inter;
     font-size: 16px;

@@ -1,9 +1,6 @@
 .hostDasboard-container {
     width: 548px;
-
     background: #FFF7ED;
-
-
 }
 
 .hostDashboard-content-container {
@@ -15,8 +12,6 @@
     width: 548px;
     height: 219px;
     border-radius: 5px;
-    opacity: 0px;
-
     display: flex;
     justify-content: space-between;
     background: #FFEAD0;

@@ -1,8 +1,6 @@
 .HostIncome-container {
     width: 548px;
-
     background: #FFF7ED;
-
 }
 
 .hostIncome-main-content {
@@ -70,11 +68,8 @@
 .HostIncome-graph-container {
     width: 493px;
     height: 349.45px;
-
     margin-left: 27px;
     margin-right: 28px;
-
-
     border-radius: 5px;
     border: 1.45px;
     background-image: url("../../../assets/HostIncome/bargraph.png");
@@ -83,7 +78,6 @@
 
 .hostIncome-transaction-container {
     width: 548px;
-
     background: #FFF7ED;
 
 }
@@ -113,8 +107,6 @@
     width: 190px;
     height: 22px;
     color: #4D4D4D;
-
-
 }
 
 .hostIncome-transaction-content-span-text {
@@ -139,7 +131,6 @@
 .HostIncome-transaction-detail-container{
     margin-top: 31px;
     width: 548px;
-
     background: #FFF7ED;
     padding-bottom: 31px;
 }

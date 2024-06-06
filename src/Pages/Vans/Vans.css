@@ -1,23 +1,20 @@
-
 .vans-container {
     background: #FFF7ED;
 
 
 }
-.card-container-link{
+
+.card-container-link {
     text-decoration: none;
 }
 
 .vans-heading {
     width: 494.33px;
     height: 34px;
-
     padding-top: 4px;
     margin-left: 26.91px;
     margin-right: 26px;
     margin-bottom: 62px;
-    gap: 0px;
-    opacity: 0px;
 
 }
 
@@ -34,13 +31,9 @@
 .vans-btn-conatiner {
     width: 351px;
     height: 37px;
-    top: 222.25px;
     margin-left: 26.79px;
     margin-right: 40px;
-    
-    gap: 0px;
     border-radius: 5px;
-    opacity: 0px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -49,12 +42,9 @@
 .vans-btn {
     width: 104px;
     height: 30px;
-    top: 222.25px;
     margin-right: 26.79px;
     padding: 13px 26px 1px 26px;
-    gap: 0px;
     border-radius: 5px;
-    opacity: 0px;
     background: #FFEAD0;
     color: #4D4D4D;
     text-decoration: none;
@@ -63,40 +53,39 @@
 }
 
 
-.vans-filter-link{
+.vans-filter-link {
     width: 100%;
     height: 24px;
-    top: 228.25px;
-   margin-right: 0;
-   margin-left: 0;
-    gap: 0px;
-    opacity: 0px;
+    margin-right: 0;
+    margin-left: 0;
     font-family: Inter;
     font-size: 16px;
     font-weight: 500;
     line-height: 23.92px;
     text-align: left;
     color: #4D4D4D;
-  
+
 
 }
+
 .vans-filter-link {
     text-decoration-color: #4D4D4D;
     cursor: pointer;
-  
+
 }
-.vans-filter{
+
+.vans-filter {
     margin-top: 22px;
     margin-bottom: 55px;
     display: flex;
-   justify-content: space-between;
-   align-items: center;
-    
+    justify-content: space-between;
+    align-items: center;
+
 }
-.cards-container{
+
+.cards-container {
     width: 548.15px;
     margin-left: 26px;
-
     display: grid;
     grid-template-columns: auto auto;
 }
@@ -104,7 +93,7 @@
 .sm:hover {
     background: #E17654;
     color: white;
-    cursor: pointer;    
+    cursor: pointer;
 }
 
 .ru:hover {
@@ -136,4 +125,3 @@
     color: white;
 
 }
-

@@ -2,7 +2,6 @@
     width: 494px;
     height: 102px;
     margin-left: 26px;
-    gap: 0px;
     border-radius: 6px;
     margin-bottom: 31px;
     background: #FFFFFF;
@@ -15,9 +14,7 @@
 .transaction-card-price {
     width: 325px;
     height: 32px;
-    top: 1068px;
     margin-left: 29px;
-
     font-family: Inter;
     font-size: 36px;
     font-weight: 600;

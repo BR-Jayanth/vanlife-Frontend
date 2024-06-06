@@ -4,9 +4,6 @@
     background-size: cover;
     width: 548.15px;
     height: 386.7px;
-    
-   
-
     position: relative;
 }
 
@@ -14,33 +11,21 @@
     position: absolute;
     width: 494.33px;
     height: 256.13px;
-    top: 65px;
-    left: 26.91px;
-    right: 26px;
-    gap: 0px;
     z-index: 1;
     border-radius: 5px;
-    opacity: 0px;
-z-index: 10;
 
 }
 
 .homeContent h1 {
     width: 494.33px;
     height: 84px;
-
     margin-right: 26px;
-    gap: 0px;
-    opacity: 0px;
     font-family: Inter;
     font-size: 36px;
     font-weight: 800;
     line-height: 42px;
     text-align: left;
-
     color: #FFFFFF !important;
-
-    z-index: 10;
 }
 
 
@@ -50,8 +35,6 @@ z-index: 10;
     margin-top: 26px;
     margin-right: 26.91px;
     margin-bottom: 51px;
-    gap: 0px;
-    opacity: 0px;
     font-family: Inter;
     font-size: 16px;
     font-weight: 500;
@@ -59,31 +42,23 @@ z-index: 10;
     text-align: left;
     color: #FFFFFF !important;
 
-    z-index: 10;
 }
 
 .homeLink {
     width: 494.33px;
     height: 49.83px;
-
     margin-right: 26.91px;
-    gap: 0px;
     border-radius: 5px;
-    opacity: 0px;
     background: #FF8C38 !important;
     display: flex;
     justify-content: center;
     align-items: center;
-    z-index: 10;
+
 }
 
 .linkButtonHome {
     width: 207.9px;
     height: 30.09px;
-    top: 392.67px;
-    left: 170.09px;
-    gap: 0px;
-    opacity: 0px;
     font-family: Inter;
     font-size: 15.95px;
     font-weight: 700;
@@ -91,6 +66,6 @@ z-index: 10;
     text-align: center;
     color: #FFFFFF !important;
     text-decoration: none;
-    z-index: 10;
+
 }
 

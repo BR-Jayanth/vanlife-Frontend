@@ -11,10 +11,7 @@
 .host-van-detail-link {
     width: 141.92px;
     height: 23px;
-    top: 226px;
     margin-left: 27.06px;
-    gap: 0px;
-    opacity: 0px;
     color: #201F1D;
     font-family: Inter;
     font-size: 15.95px;
@@ -27,15 +24,10 @@
 
 .host-van-detail-item-container {
     width: 496px;
-    
-    top: 286px;
     margin-left: 26px;
     margin-top: 37px;
     padding-bottom: 25px;
-
-    gap: 0px;
     border-radius: 6px;
-    opacity: 0px;
     background: #FFFFFF;
 
 
@@ -46,7 +38,6 @@
     height: 157.9px;
     margin-top: 23px;
     margin-left: 25px;
-    gap: 0px;
     border-radius: 5px;
 
 
@@ -67,10 +58,7 @@
     width: 69.8px;
     height: 27.59px;
     margin-top: 47px;
-    left: 231.12px;
-    gap: 0px;
     border-radius: 4.07px;
-    opacity: 0px;
     background: #E17654;
     font-family: Inter;
     font-size: 13.03px;
@@ -86,7 +74,6 @@
     width: 264.67px;
     height: 28px;
     margin-top: 16px;
-
     font-family: Inter;
     font-size: 26.06px;
     font-weight: 700;
@@ -101,12 +88,7 @@
     width: 264.67px;
     height: 36px;
     margin-top: 2px;
-    top: 406.36px;
-    left: 231px;
-    gap: 0px;
-    opacity: 0px;
     color: #161616;
-
 
 }
 
@@ -139,9 +121,7 @@
 
 .host-vans-detail-navbar-item {
     display: flex;
-
     list-style: none;
-
     font-family: Inter;
     font-size: 18px;
     font-weight: 500;
