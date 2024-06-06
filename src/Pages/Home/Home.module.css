@@ -1,4 +1,4 @@
-.home-container {
+.homeContainer {
 
     background-image: url("../../assets/home/home.png");
     background-size: cover;
@@ -10,7 +10,7 @@
     position: relative;
 }
 
-.home-content {
+.homeContent {
     position: absolute;
     width: 494.33px;
     height: 256.13px;
@@ -25,7 +25,7 @@ z-index: 10;
 
 }
 
-.home-content h1 {
+.homeContent h1 {
     width: 494.33px;
     height: 84px;
 
@@ -44,7 +44,7 @@ z-index: 10;
 }
 
 
-.home-content-2 p {
+.homeContent2 p {
     width: 494.33px;
     height: 48px;
     margin-top: 26px;
@@ -62,7 +62,7 @@ z-index: 10;
     z-index: 10;
 }
 
-.home-link {
+.homeLink {
     width: 494.33px;
     height: 49.83px;
 
@@ -77,7 +77,7 @@ z-index: 10;
     z-index: 10;
 }
 
-.link-button-home {
+.linkButtonHome {
     width: 207.9px;
     height: 30.09px;
     top: 392.67px;
