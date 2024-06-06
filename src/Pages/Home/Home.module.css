@@ -4,6 +4,9 @@
     background-size: cover;
     width: 548.15px;
     height: 386.7px;
+
+
+
     position: relative;
 }
 
@@ -11,6 +14,10 @@
     position: absolute;
     width: 494.33px;
     height: 256.13px;
+    top: 65px;
+    left: 26.91px;
+    right: 26px;
+
     z-index: 1;
     border-radius: 5px;
 
@@ -19,13 +26,17 @@
 .homeContent h1 {
     width: 494.33px;
     height: 84px;
+
     margin-right: 26px;
+
     font-family: Inter;
     font-size: 36px;
     font-weight: 800;
     line-height: 42px;
     text-align: left;
+
     color: #FFFFFF !important;
+
 }
 
 
@@ -47,18 +58,24 @@
 .homeLink {
     width: 494.33px;
     height: 49.83px;
+
     margin-right: 26.91px;
+
     border-radius: 5px;
+
     background: #FF8C38 !important;
     display: flex;
     justify-content: center;
     align-items: center;
-
+    z-index: 10;
 }
 
 .linkButtonHome {
     width: 207.9px;
     height: 30.09px;
+    top: 392.67px;
+    left: 170.09px;
+
     font-family: Inter;
     font-size: 15.95px;
     font-weight: 700;
@@ -68,4 +85,3 @@
     text-decoration: none;
 
 }
-
